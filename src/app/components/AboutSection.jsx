@@ -57,12 +57,14 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+          Bienvenue sur mon portfolio! Je m'appelle Nouffel Fourar, et je suis sur le point de terminer mes études en informatique au collège la cité . Depuis mon entrée dans le monde de l'informatique, j'ai nourri une passion inébranlable pour les technologies innovantes et les solutions créatives aux problèmes complexes.
+
+Durant mon parcours , j'ai acquis des compétences variées et approfondies dans des domaines tels que la programmation, le développement web, l'intelligence artificielle et la cybersécurité. Parmi mes projets notables, vous découvrirez un système de gestion de bases de données optimisé que j'ai développé lors de mon stage chez telus, ainsi qu'une application web interactive conçue pour faciliter l'apprentissage en ligne, créée en collaboration avec une équipe de quatre étudiants.
+
+En plus de mes compétences techniques, j'ai eu l'opportunité de travailler sur des projets de groupe qui ont renforcé mes aptitudes en communication et en gestion de projet. Mon stage chez telus m'a également permis de comprendre les exigences du monde professionnel et d'appliquer mes connaissances théoriques dans un environnement réel.
+
+Ce portfolio est une vitrine de mes réalisations et de ma progression en tant qu'étudiant en informatique. Je suis impatient de continuer à explorer ce domaine fascinant et de contribuer à des projets innovants. Je vous remercie de votre intérêt et vous souhaite une agréable visite de mon portfolio.
+
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
